@@ -1,2 +1,2 @@
-# Memorainer-MyCloudPic01
+# MyCloudPic01
 自用1号图床
